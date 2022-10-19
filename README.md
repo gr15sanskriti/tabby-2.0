@@ -51,4 +51,4 @@ follow the below steps to add the code for your driver
   } 
   
   
-  (viii) now press cltr +c and your library ius ready to use
+  (viii) now press cltr +c and your library is ready to use
